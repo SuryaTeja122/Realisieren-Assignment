@@ -1,0 +1,14 @@
+{
+    "collected_per_source": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "records_after_cleaning": {
+        "Books to Scrape": 1000,
+        "Quotes to Scrape": 100
+    },
+    "rejected_by_reason": {},
+    "duplicates_detected": 1,
+    "final_record_count": 1099,
+    "duration_seconds": 54.96
+}
